@@ -1,6 +1,6 @@
 # Welcome to My GitHub Pages Site
 
-Hi, I'm mr-h12! This is my personal site 
+Hi, I'm mr-h12! This is my personal github page 
 
 
 ## About Me
